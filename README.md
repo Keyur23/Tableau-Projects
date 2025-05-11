@@ -28,6 +28,9 @@ Welcome to my Tableau Projects repository! 🚀 Dive into a collection of projec
 
 - Investment Survey Analysis: This is a analysis of where and why people invest. It includes Investment by age, Mode of investment, Goal of investment, Resources used to invest and Sources of motivation to invest.
 
+- Global Cybersecurity Threats Analysis: The Global Cyber Security Threats Analysis dashboard provides a comprehensive overview of cyber threats across multiple countries, highlighting financial losses, affected users, and resolution times. Key insights include DDoS attacks causing the highest financial loss at $27.63 billion, while average incident resolution times range between 35 to 37 hours across attack types.
+
+  
 ## How to Use:
 
 Feel free to interact with the Tableau dashboards, download workbooks, and explore the visualization techniques employed. Your feedback is valuable, so don't hesitate to open issues or reach out with any questions.
